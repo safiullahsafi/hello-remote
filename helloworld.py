@@ -1,4 +1,3 @@
-def sayHello():
-    print('helloworld')
+import sys
 
-sayHello()
+print("hell {}!".format(sys.argv[0]))
