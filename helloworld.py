@@ -1,3 +1,3 @@
 import sys
 
-print("hell {}!".format(sys.argv[0]))
+print("Hello {}!".format(sys.argv[0]))
